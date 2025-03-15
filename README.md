@@ -1,1 +1,1 @@
-# FatecJundiai
+# Fatec Jundiai
