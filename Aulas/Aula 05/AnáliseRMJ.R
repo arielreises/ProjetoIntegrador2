@@ -46,8 +46,6 @@ ggplot(populacao_grupos, aes(x = sexo, y = populacao, fill = sexo)) +
        y = "População Total") +
   theme_minimal()
 
-
-
 # faixa etária e cidade
 ggplot(populacao_grupos, aes(x = grupo_idade, y = populacao, fill = grupo_idade)) +
   geom_bar(stat = "identity", position = "stack") +

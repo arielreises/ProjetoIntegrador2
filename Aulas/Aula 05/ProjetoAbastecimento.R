@@ -6,7 +6,7 @@ library(dplyr)
 library(lubridate)
 
 # URL da planilha do Google Sheets
-sheet_url <- "https://docs.google.com/spreadsheets/d/16kzgCFB30W6im_Sk6ONdgHyZnijd8Smk4SmiNdgFzYQ/edit"
+sheet_url <- "https://docs.google.com/spreadsheets/d/-censored-/edit"
 
 # Função para carregar e processar os dados
 carregar_dados <- function() {
