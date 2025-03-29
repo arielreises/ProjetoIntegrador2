@@ -23,3 +23,7 @@ Este repositório contém os materiais e códigos desenvolvidos na disciplina **
 ### 05. mtcars e analise populacional da RMJ
 - **Data:** 22/03/2025  
 - **Conteúdo Ministrado:** Análise RMJ
+
+### 06. novamente falando sobre mtcars e analise populacional da RMJ
+- **Data:** 29/03/2025  
+- **Conteúdo Ministrado:** Análise RMJ parte 2, mas usando a biblioteca dplyr (igual eu tinha feito semana passada)
