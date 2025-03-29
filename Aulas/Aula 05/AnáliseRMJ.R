@@ -16,7 +16,7 @@ cidades_rmj <- rm_jundiai$CIDADE
 # Usando o which() para filtrar os dados da população para pegar apenas as cidades que estão na RMJ
 indices_rmj <- which(populacao_data$nome_mun %in% cidades_rmj)
 populacao_rmj <- populacao_data[indices_rmj, ]
-
+6
 # Verifica se o filtro foi feito corretamente
 head(populacao_rmj)
 
